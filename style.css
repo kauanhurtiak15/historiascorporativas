@@ -17,6 +17,7 @@ h2{
 button{
     width: 150px;
     height: 40px;
+    border-radius: 10px;
 }
 
 button a{
